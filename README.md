@@ -23,7 +23,7 @@ Think of it as my **developer blog**, **portfolio**, and **study companion** —
 
 | Date | Summary |
 |------|---------|
-| [2025-05-14](DailyLogs/2025-05-14.md) | A little about me and started learn Python from Scratch |
+| [2025-05-14](00_DailyLogs/2025-05-14.md) | A little about me and started learn Python from Scratch |
 
 > 📝 I MADE This to track IF I AM JUST learning it... OR IMPLEMENTING IT....
 
