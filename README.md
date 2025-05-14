@@ -7,9 +7,9 @@ Welcome to my **learning playground** — a personal space where I am exploring 
 
 ## 🔍 What’s This Repo All About?
 
-I’m want to not just follow tutorials — I’m trying to **learning by doing**.
+I’m want to not just follow tutorials — I’m trying to do **"learning by doing"**.
 
-This repository is where I try to:
+This repository is where I want to:
 - Implement concepts in **a different way**
 - Solving problems with **logic Building** and **Stuff**
 - Maintaining **daily logs** of what I learn and build and **Where i failed**
@@ -23,9 +23,9 @@ Think of it as my **developer blog**, **portfolio**, and **study companion** —
 
 | Date | Summary |
 |------|---------|
-| [2025-05-14](DailyLogs/2025-05-14.md) | Started A new REPO and trying to learn Python from Scratch |
+| [2025-05-14](DailyLogs/2025-05-14.md) | A little about me and started learn Python from Scratch |
 
-> 📝 I MADE This to track IF I AM doing JUST THAT... OR IMPLEMENTING IT....
+> 📝 I MADE This to track IF I AM JUST learning it... OR IMPLEMENTING IT....
 
 ---
 
@@ -35,8 +35,8 @@ Each file here represents **my interpretation** of a concept — not just how it
 
 My process:
 1. Learn the concept from a source
-2. Think about how it works in real implementation
-3. Apply it in code — often in a practical ways where it can be used in real world
+2. About how it works
+3. Apply it in code
 4. Push it to this repo to document the journey
 
 ---
